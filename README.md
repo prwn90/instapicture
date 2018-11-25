@@ -1,3 +1,3 @@
 # instapicture
-Instapicture isa web application like Instagram 
+Instapicture i sa web application like Instagram 
 With Python and Django :)
